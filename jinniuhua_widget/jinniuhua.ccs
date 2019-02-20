@@ -1,0 +1,99 @@
+<Solution>
+  <PropertyGroup Name="jinniuhua" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="Image">
+          <Folder Name="help">
+            <Image Name="jnhjp_close.png" />
+            <Image Name="jnhjp_help.png" />
+            <Image Name="jnhjp_help2.png" />
+          </Folder>
+          <Folder Name="poker">
+            <Image Name="poker_0_0.png" />
+            <Image Name="poker_0_1.png" />
+            <Image Name="poker_0_10.png" />
+            <Image Name="poker_0_11.png" />
+            <Image Name="poker_0_12.png" />
+            <Image Name="poker_0_2.png" />
+            <Image Name="poker_0_3.png" />
+            <Image Name="poker_0_4.png" />
+            <Image Name="poker_0_5.png" />
+            <Image Name="poker_0_6.png" />
+            <Image Name="poker_0_7.png" />
+            <Image Name="poker_0_8.png" />
+            <Image Name="poker_0_9.png" />
+            <Image Name="poker_1_0.png" />
+            <Image Name="poker_1_1.png" />
+            <Image Name="poker_1_10.png" />
+            <Image Name="poker_1_11.png" />
+            <Image Name="poker_1_12.png" />
+            <Image Name="poker_1_2.png" />
+            <Image Name="poker_1_3.png" />
+            <Image Name="poker_1_4.png" />
+            <Image Name="poker_1_5.png" />
+            <Image Name="poker_1_6.png" />
+            <Image Name="poker_1_7.png" />
+            <Image Name="poker_1_8.png" />
+            <Image Name="poker_1_9.png" />
+            <Image Name="poker_2_0.png" />
+            <Image Name="poker_2_1.png" />
+            <Image Name="poker_2_10.png" />
+            <Image Name="poker_2_11.png" />
+            <Image Name="poker_2_12.png" />
+            <Image Name="poker_2_2.png" />
+            <Image Name="poker_2_3.png" />
+            <Image Name="poker_2_4.png" />
+            <Image Name="poker_2_5.png" />
+            <Image Name="poker_2_6.png" />
+            <Image Name="poker_2_7.png" />
+            <Image Name="poker_2_8.png" />
+            <Image Name="poker_2_9.png" />
+            <Image Name="poker_3_0.png" />
+            <Image Name="poker_3_1.png" />
+            <Image Name="poker_3_10.png" />
+            <Image Name="poker_3_11.png" />
+            <Image Name="poker_3_12.png" />
+            <Image Name="poker_3_2.png" />
+            <Image Name="poker_3_3.png" />
+            <Image Name="poker_3_4.png" />
+            <Image Name="poker_3_5.png" />
+            <Image Name="poker_3_6.png" />
+            <Image Name="poker_3_7.png" />
+            <Image Name="poker_3_8.png" />
+            <Image Name="poker_3_9.png" />
+            <Image Name="poker_4_1.png" />
+            <Image Name="poker_4_2.png" />
+            <Image Name="poker_new8.png" />
+            <Image Name="poker_new8_1.png" />
+          </Folder>
+          <Image Name="jnhjp_background.png" />
+          <Image Name="jnhjp_floor.png" />
+          <Image Name="jnhjp_floor1.png" />
+          <Image Name="jnhjp_floor3.png" />
+          <Image Name="jnhjp_head1.png" />
+          <Image Name="jnhjp_head2.png" />
+          <Image Name="jnhjp_head3.png" />
+          <Image Name="jnhjp_head4.png" />
+          <Image Name="jnhjp_hole.png" />
+          <Image Name="jnhjp_logo.png" />
+          <Image Name="jnhjp_lose.png" />
+          <Image Name="jnhjp_pass.png" />
+          <Image Name="jnhjp_people1.png" />
+          <Image Name="jnhjp_people1_1.png" />
+          <Image Name="jnhjp_people2.png" />
+          <Image Name="jnhjp_people2_2.png" />
+          <Image Name="jnhjp_people3.png" />
+          <Image Name="jnhjp_people3_3.png" />
+          <Image Name="jnhjp_people4.png" />
+          <Image Name="jnhjp_people4_4.png" />
+          <Image Name="jnhjp_return.png" />
+          <Image Name="jnhjp_start.png" />
+          <Image Name="jnhjp_start1.png" />
+          <Image Name="jnhjp_win.png" />
+        </Folder>
+        <Project Name="MainLayer.csd" Type="Layer" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
